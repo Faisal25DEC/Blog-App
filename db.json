@@ -1,0 +1,42 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "blog": [
+    {
+      "title": "Whatever",
+      "desc": "fgdas",
+      "image": "https://rukminim2.flixcart.com/image/450/500/xif0q/shoe/k/l/v/6-pc-jr-6-airson-white-original-imagnwy4c6gmyrqu.jpeg?q=90&crop=false",
+      "author": "gas",
+      "category": "Fashion",
+      "dateCreated": "1-7-2023",
+      "tags": "gdas",
+      "id": 73
+    },
+    {
+      "title": "fdsa",
+      "desc": "fdas",
+      "image": "gdas",
+      "author": "gdas",
+      "category": "Politics",
+      "dateCreated": "1-7-2023",
+      "tags": "gdas",
+      "id": 74
+    }
+  ],
+  "upload": []
+}
